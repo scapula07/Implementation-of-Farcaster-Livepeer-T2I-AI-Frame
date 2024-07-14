@@ -1,1 +1,1 @@
-# farcaster-frame-polls
+# Implementation of Farcaster Livepeer T2I AI Frame
